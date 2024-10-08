@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm **Dilshan Nuwantha Wickramasingha**, a passionate learner and enthusiast in the fields of machine learning, computer vision, and robotics.
+I'm **Dilshan Nuwantha Wickramasingha**, a passionate learner and enthusiast in the fields of robotics, machine learning and computer vision.
 
 ## Skills
 - Machine Learning
